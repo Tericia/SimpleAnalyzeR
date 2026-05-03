@@ -2,13 +2,13 @@ Package: SimpleAnalyzeR
 Title: Data Analysis and Visualization Toolkit
 Version: 0.0.0.9000
 Authors@R: person("Tericia ", "Ricketts", , "tericia.ricketts4@gmail.com", role=c("aut","cre"))
-Description: Friedman is an R package designed to simplify common data analysis
+Description: SimpleAnalyzeR is an R package designed to simplify common data analysis
     and visualization tasks. It provides functions to clean, summarize, and
     visualize datasets efficiently, saving time for researchers and students.
 Depends: R (>= 3.1.2)
 Imports: ggplot2, dplyr
 License: CC0
 LazyData: true
-URL: https://github.com/yourusername/Friedman
-BugReports: https://github.com/yourusername/Friedman/issues
+URL: https://github.com/yourusername/SimpleAnalyzeR
+BugReports: https://github.com/yourusername/SimpleAnalyzeR/issues
 Suggests: testthat
